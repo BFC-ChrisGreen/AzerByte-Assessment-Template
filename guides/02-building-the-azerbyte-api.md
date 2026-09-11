@@ -1,4 +1,4 @@
-# Guide 2: Your First API
+# Guide 2: Building the Azerbyte API
 
 In Topic 2, the Launch Night program was separated into Python modules. Those modules still ran together as one local program. Azerbyte now needs two independently running components that communicate over a network.
 
